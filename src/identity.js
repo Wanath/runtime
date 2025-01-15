@@ -1,3 +1,3 @@
-export function identity(x) {
+export function salahhazaa (x) {
   return x;
 }
